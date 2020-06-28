@@ -1,0 +1,15 @@
+{
+  "name": "devangppatel",
+  "description": "Devang Patel's Blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-medium-zoom": "^1.5.2",
+    "vuepress": "^1.5.2"
+  }
+}
