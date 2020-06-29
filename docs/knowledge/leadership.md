@@ -11,7 +11,7 @@ Thoughts on the art of leadership and how to lead
 [[toc]]
 
 
-## Two types of people
+## Three types of people
 
 Leaders = People that set a vision and lead others
 
@@ -26,5 +26,3 @@ A leader wakes up every morning to a blank page and writes the novel. Followers 
 ### Tribes and Leadership
 
 "Every tribe is different. Every leader is different. The very nature of leadership is that you're not doig what's been done before. If you were, you'd be following, not leading" - Tribes by Seth Godin
-
-
