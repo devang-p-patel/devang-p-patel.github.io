@@ -51,9 +51,8 @@ module.exports = {
       ],
       '/blog/': [
         'augmented-reality',
-        'blog-styling',
         'blog-posts-that-inspire-me',
-        'my-first-post',
+        'the-need-to-innovate',
       ],
       '/knowledge/': [
         'thinking',
