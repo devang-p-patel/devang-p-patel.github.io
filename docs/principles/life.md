@@ -11,7 +11,11 @@ Decision making frameworks and mental models for life
 [[toc]]
 
 
-## Topic 1
+## Leadership
+Lead by example
 
+Listen to external world, listen to internal
+
+Be thoughtful about the people on team
 
 ## Topic 2

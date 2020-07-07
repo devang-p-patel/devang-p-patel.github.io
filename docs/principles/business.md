@@ -119,7 +119,8 @@ Options for raising:
 
 ### Mental models
 
-TBD
+**Listen to external world, listen to internal employees**
+Listen to signals from outside the company and from within. Ensure that team is innovating in the direction we're headed, and that we're solving customer problems.
 
 
 ## Resources
